@@ -1,0 +1,9 @@
+D:\work\web\TestGrafics\TestGrafics\bin\Debug\Test_Grafics.exe
+D:\work\web\TestGrafics\TestGrafics\bin\Debug\Test_Grafics.pdb
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\TestGrafics.csprojAssemblyReference.cache
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\TestGrafics.Form1.resources
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\Test_Grafics.Properties.Resources.resources
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\TestGrafics.csproj.GenerateResource.cache
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\TestGrafics.csproj.CoreCompileInputs.cache
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\Test_Grafics.exe
+D:\work\web\TestGrafics\TestGrafics\obj\Debug\Test_Grafics.pdb
